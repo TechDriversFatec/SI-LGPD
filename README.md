@@ -195,3 +195,4 @@ Para criar as chaves de criptografia, usamos o `secret_id` junto de um *salt* al
 * Data: (30/11/2020 a 06/12/2020)
 
 
+# SI-LGPD
